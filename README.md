@@ -11,4 +11,4 @@ I’m currently working on the MERN stack, I’m currently learning DevOps, Reac
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohank45)](https://github.com/rohank45/github-readme-stats)
 
 # Connect with me:
-[<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/rohank45)  [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rohan-kurane-7729581a6/)  [<img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>] (twitter.com)
+[<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/rohank45)  [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rohan-kurane-7729581a6/)  <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
