@@ -1,6 +1,6 @@
 <!-- ![MERN stack developer.](https://media-exp1.licdn.com/dms/image/C4D16AQH_MoR-73lKbw/profile-displaybackgroundimage-shrink_200_800/0/1640847750525?e=1647475200&v=beta&t=1aT8zeaVS6U-c5W8f4kKbR_PUEMG_amd_0283SrdkHA) -->
 
-# Hi there 👋
+# Hello there 👋
 I'm a passionate Full Stack Developer from Mumbai, India. 
 I’m currently working on the MERN stack, I’m currently learning DevOps.
 
