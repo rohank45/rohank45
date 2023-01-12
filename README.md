@@ -7,8 +7,5 @@ I’m currently working on the MERN stack.
 # 🚀 Languages and Tools:
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/FFFFFF/amazon-web-services.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>  
 
-# 📊 My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohank45)](https://github.com/rohank45/github-readme-stats)
-
 # Connect with me:
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rohan-kurane-7729581a6/) 
