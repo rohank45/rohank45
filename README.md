@@ -12,7 +12,6 @@ I'm a passionate Full Stack Developer from Mumbai, India.
 🤝 I’m looking for help with **CI/CD pipeline**.
 
 # Connect with me:
-<a href="https://mobile.twitter.com/rohankurane45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohankurane45" height="30" width="40" /></a>
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rohan-kurane-7729581a6/) 
 
 
