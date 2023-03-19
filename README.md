@@ -7,9 +7,9 @@ I'm a passionate Full Stack Developer from Mumbai, India.
 
 🌱 I’m currently working on **MERN, React Native and Next JS**.
 
-🔭 I’m currently learning **AWS, Firebase, Typescript**.
+🔭 I’m currently learning **AWS, Firebase and Typescript**.
 
-🤝 I’m looking for help with **CI/CD pipeline**.
+🤝 I’m looking for help with **CI/CD pipeline, Docker, etc.**.
 
 # Connect with me:
 <a target="_blank" href="https://twitter.com/rohankurane45"><img src="https://img.icons8.com/fluency/48/null/twitter.png"/></a> <a target="_blank" href="https://www.linkedin.com/in/rohankurane45/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
