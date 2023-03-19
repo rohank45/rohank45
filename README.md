@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer from Mumbai, India.
 
 🌱 I’m currently working on **MERN, React Native and Next JS**.
 
-🔭 I’m currently learning **AWS, Firebase, Typescript and Figma**.
+🔭 I’m currently learning **AWS, Firebase, Typescript**.
 
 🤝 I’m looking for help with **CI/CD pipeline**.
 
